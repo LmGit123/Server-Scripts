@@ -1,1 +1,2 @@
-This file has been created in master branch and updated in master.
+This file has been created in master branch.
+This file has been created in master branch but updated in slave.
